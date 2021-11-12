@@ -1,8 +1,8 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            hurst.brendon@gmail.com
+author:           
+email:            
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://brendon-hurst.github.io/'
-baseurl:          'brendon-hurst.github.io'
+baseurl:          ''
 rss:              RSS
 
 toc:
